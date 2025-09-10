@@ -1,5 +1,5 @@
 - name: Gitio Hamano
-  function: Version controller
+  function: Source Code version controller
   image: /uploads/photos/avatars/1.jpeg
   description: Rings of Uranus hearts of the stars corpus callosum invent the universe take root and flourish concept of the number one.
   stars: 5
@@ -19,7 +19,7 @@
   description: Extraordinary claims require extraordinary evidence how far away a very small stage in a vast cosmic arena something incredible is waiting to be known concept of the number one not a sunrise but a galaxyrise.
   stars: 5
 - name: Linus O'Callaghan
-  function: Systeembeheerder
+  function: Systems Administrator
   image: /uploads/photos/avatars/5.jpeg
   description: Descended from astronomers stirred by starlight circumnavigated colonies dispassionate extraterrestrial observer a very small stage in a vast cosmic arena.
   stars: 5
