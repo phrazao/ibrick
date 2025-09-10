@@ -4,7 +4,7 @@ baseURL: https://phrazao.github.io/ibrick
 # Title of your website (required).
 title: impossibilis
 # Your theme name
-theme: hugobricks
+theme: "hugobricks"
 # params:
 #   # theme-mode
 #   theme_switcher: true
