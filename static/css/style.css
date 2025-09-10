@@ -2,7 +2,7 @@
 @import "base.css";
 @import "header-footer.css";
 @import "bricks.css";
-@import "custom.css";
+/* @import "custom.css"; */
 
 /*------------------------*/
 /* theme colors
@@ -50,3 +50,4 @@ img {filter: grayscale(0);}
 
 
 /*------------------------ CSS overrides below ------------------------*/
+/* Add your own custom styles here */

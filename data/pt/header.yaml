@@ -1,5 +1,5 @@
-logo_image:
-logo_subtitle: The Ultimate Hugo Theme
+logo_image: /logo.svg
+logo_subtitle:
 dark_header: false
 mobile_view_width: 1100
 menuitems:
