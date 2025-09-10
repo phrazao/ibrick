@@ -1,10 +1,10 @@
 ######################## default configuration ####################
 # The base URL of your site (required). This will be prepended to all relative URLs.
-baseURL: https://phrazao.github.io/ibrick
+baseURL: https://phrazao.github.io/ibrick/
 # Title of your website (required).
 title: impossibilis
 # Your theme name
-theme: "hugobricks"
+theme: hugobricks
 # params:
 #   # theme-mode
 #   theme_switcher: true
